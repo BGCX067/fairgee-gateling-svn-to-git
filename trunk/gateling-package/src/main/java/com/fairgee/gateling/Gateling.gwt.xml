@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to="gateling">
+	<inherits name='com.google.gwt.user.User' />
+	<entry-point class='com.fairgee.gateling.client.Gateling' />
+
+	<!-- =================Inherited gateling modules================ -->
+	<inherits name='com.fairgee.gateling.base.Base' />
+
+	<!-- =================End Inherited gateling modules============ -->
+</module>
+

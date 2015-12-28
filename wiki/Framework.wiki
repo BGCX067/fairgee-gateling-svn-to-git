@@ -1,0 +1,10 @@
+#summary Framework je stavebnou kostrou celeho projektu a umoznuje jednoduche rozsirovanie funkcionality celeho projektu.
+|| [http://code.google.com/p/fairgee-gateling/wiki/HlavnaStranka HlavnaStranka] || [http://code.google.com/p/fairgee-gateling/wiki/Framework Framework] || [http://code.google.com/p/fairgee-gateling/wiki/EvidenciaPrac Ev. Prac] ||
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages

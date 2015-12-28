@@ -1,0 +1,29 @@
+#summary Hlavna Wiki stranka.
+
+= Gateling =
+
+Projekt na vytvorenie somarin.
+
+= Ciele projektu =
+
+Vytvorenie modularneho "frameworku"
+  * moznost pridavania "applikacii" vo forme modulov
+  * moznost zdielania informacii medzi modulmi
+  * integracia s google mail
+  * velke moznosti prepouzitia modulov pre standalone aplikacie (nezavislot na google)
+  * vyuzitie najmodernejsich metod  
+
+Vytvorenie podnikovych aplikacii vo forme modulov:
+  * Dochadzkovy modul (praca na projektoch, evidencia prac)
+  * Modul obchodnych kontaktov (Google Contacts?)
+  * Modul na zdielanie suborov
+  * Modul na schvalovanie dovoleniek
+  * Internetovy obchod (asi iny projekt)
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages

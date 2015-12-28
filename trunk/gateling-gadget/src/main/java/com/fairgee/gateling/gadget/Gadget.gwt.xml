@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to="gateling">
+
+	<!-- Inherit the core Web Toolkit stuff. -->
+	<inherits name='com.google.gwt.user.User' />
+	<inherits name="com.google.gwt.inject.Inject" />
+	<inherits name='net.customware.gwt.dispatch.Dispatch' />
+	<inherits name='net.customware.gwt.presenter.Presenter' />
+	<inherits name='com.google.gwt.gadgets.Gadgets' />
+	<!-- Specify the app entry point class. -->
+	<entry-point class='com.fairgee.gateling.gadget.client.SampleGadget' />
+
+	<source path='client' />
+	<source path='shared' />
+
+</module>
+

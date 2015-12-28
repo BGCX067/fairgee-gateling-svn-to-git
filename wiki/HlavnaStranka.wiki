@@ -1,0 +1,38 @@
+#summary Hlavna Wiki stranka.
+|| [http://code.google.com/p/fairgee-gateling/wiki/HlavnaStranka HlavnaStranka] || [http://code.google.com/p/fairgee-gateling/wiki/Framework Framework] || [http://code.google.com/p/fairgee-gateling/wiki/EvidenciaPrac Ev. Prac] || [http://code.google.com/p/fairgee-gateling/wiki/SpravaDokumentov DMS] ||
+
+= Gateling =
+
+Projekt na vytvorenie intranetu.
+
+== Ciele projektu =
+
+=== Vytvorenie modularneho "frameworku" [http://code.google.com/p/fairgee-gateling/wiki/Framework Framework] === 
+  * moznost pridavania "applikacii" vo forme modulov
+  * moznost zdielania informacii medzi modulmi
+  * integracia s google mail
+  * velke moznosti prepouzitia modulov pre standalone aplikacie (nezavislot na google)
+  * vyuzitie najmodernejsich metod  
+
+=== Vytvorenie podnikovych aplikacii vo forme modulov ===
+  * Dochadzkovy modul (praca na projektoch, evidencia prac)
+  * Modul obchodnych kontaktov (Google Contacts?)
+  * Modul na zdielanie suborov [http://code.google.com/p/fairgee-gateling/wiki/SpravaDokumentov DMS]
+  * Modul na schvalovanie dovoleniek
+  * Internetovy obchod (asi iny projekt)
+
+
+= Moduly intranetov konkurencie =
+
+  * Správa dokumentov
+  * Zamestnanecké dáta
+  * Organizačná štruktúra
+  * Dochádzka a schvaľovanie absencií
+  * Pracovné výkazy (Timesheets)
+  * Pracovné cesty
+  * Stravné lístky
+  * Výplatné pásky
+  * Plánovanie kapacít
+  * Hodnotenie zamestnancov
+  * E-learning
+  * Žiadosti o dovolenky, resp. prehľad o neprítomnosti na pracovisku
